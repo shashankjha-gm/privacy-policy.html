@@ -1,8 +1,3 @@
----
-title: "Vishvam Kids Care"
----
-
-
 
 # Privacy Policy for Vishvam Kids Care
 
